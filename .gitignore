@@ -1,0 +1,15 @@
+# Environments
+.venv
+.vscode
+
+# Folders
+output/*
+cities/*
+names/*
+output/!.gitkeep
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+app.log
